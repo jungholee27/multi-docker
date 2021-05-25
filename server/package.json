@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "4.16.3",
+    "pg": "",
+    "redis": "2.8.0",
+    "cors": "2.8.4",
+    "eslint": "^7.27.0",
+    "nodemon": "^2.0.7",
+    "prettier": "^2.3.0",
+    "prettier-eslint": "^12.0.0",
+    "body-parser": "*"
+  },
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node index.js"
+  }
+}
